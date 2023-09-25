@@ -28,7 +28,7 @@ pip install pre-commit
 ### instalar SQLAlchemy(venv)
 pip3 install SQLAlchemy
 
-### insinializar o pre-commit no projeto(venv)
+### inicializar o pre-commit no projeto(venv)
 pre-commit install
 
 ### Cria o arquivo run.py
