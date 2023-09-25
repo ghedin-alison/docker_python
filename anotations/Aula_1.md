@@ -37,3 +37,7 @@ pre-commit install
 export FLASK_APP=run.py
 flask run
 
+### criado o install.sh
+com as configurações adicionadas, basta passar executar o install.sh após o clone do projeto pra ter tudo pronto pra iniciar. será criada a venv e instalado o pre-commit.
+. install.sh
+
